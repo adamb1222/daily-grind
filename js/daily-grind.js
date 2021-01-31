@@ -111,7 +111,7 @@ switch(myDay){
         coffee = {
             color: "tan",
             name: "Frappaccino",
-            pic: "images/Frappaccino.jpg",
+            pic: "images/frappaccino.jpg",
             alt: "A pic of Frappaccino",
             day: "Friday",
             desc: 'if you like the Frappaccino you\'re probably the type of person who adds sweetener to everything just to feel good about themselves every now and then.'
