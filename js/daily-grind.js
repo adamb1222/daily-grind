@@ -127,7 +127,7 @@ switch(myDay){
         coffee = {
             color: "yellow",
             name: "Mocha",
-            pic: "images/Mocha.jpg",
+            pic: "images/mocha.jpg",
             alt: "A pic of Mocha",
             day: "Saturday",
             desc: 'per request, our minimum-wage baristas will make some poor quality milk art with the Mocha as well!'
